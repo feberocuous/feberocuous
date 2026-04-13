@@ -1,10 +1,16 @@
-# 💫 About Me:
-# 👋 Hi, I'm Amaan Rahman
+## 👋 Hi, I'm Amaan Rahman  
 
-CSE undergraduate focused on building real-world backend applications and strengthening core CS fundamentals through GATE prep.
-Currently working on projects, DSA, and exploring AI integration in practical systems.
+🎓 CSE undergraduate passionate about building real-world applications and strengthening core CS fundamentals through GATE preparation.  
 
-I believe in consistency, depth, and learning by building.
+💻 Currently focused on:
+- Backend development (Node.js, Express)  
+- Problem-solving (DSA)  
+- Building and deploying practical projects  
+- Exploring AI integration in real-world systems  
+
+🚀 Goal: To become a strong product engineer and build impactful, scalable solutions  
+
+🧠 I believe in consistency, depth, and learning by building — not chasing hype.
 
 
 
