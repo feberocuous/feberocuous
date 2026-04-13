@@ -1,12 +1,18 @@
-👨‍💻 Amaan | 20 y/o CSE Freshman @ DUIET
-💡 Passionate about crafting clean, responsive websites
-🎨 Frontend: HTML | CSS | Bootstrap | Tailwind
-🧠 UI/UX | Mobile-First Design | Web Performance
-📂 Built and refined functional, user-friendly projects
-📚 Hobbies: Gym 🏋️ + Self-help Books 📖
-🚀 Always building. Always learning.
+# 💫 About Me:
+# 👋 Hi, I'm Amaan Rahman<br><br>🎓 CSE Undergraduate | Builder in Progress | Future AI-Integrated Full Stack Developer<br><br>---<br><br>## 🚀 About Me<br><br>I’m a Computer Science student focused on building **real-world software systems** while strengthening my core fundamentals.<br><br>Currently, I’m working on:<br><br>* 📘 Preparing for **GATE** to build strong CS fundamentals<br>* 💻 Developing **backend-heavy applications** using modern web technologies<br>* 🧠 Practicing **problem-solving (DSA)** to improve logical thinking<br>* 🤖 Exploring how to integrate **AI into practical applications**<br><br>I believe in **depth over hype** — building real projects instead of chasing trends.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>* **Languages:** JavaScript, C, C++<br>* **Frontend:** HTML, CSS, Bootstrap<br>* **Backend:** Node.js, Express.js<br>* **Database:** SQL (learning PostgreSQL)<br>* **Tools:** Git, GitHub<br>* **Currently Learning:** TypeScript, System Design, Docker<br><br>---<br><br>## 🎯 What I'm Working Towards<br><br>* Building **production-ready applications** with real users<br>* Becoming a **strong backend / product engineer**<br>* Combining **software + AI** to create useful tools<br>* Achieving **financial independence and long-term stability**<br><br>---<br><br>## 💡 Philosophy<br><br>> "Consistency and depth beat shortcuts and noise."<br><br>---<br><br>## 📌 Current Focus<br><br>* 📚 GATE preparation (core CS subjects)<br>* 🧩 DSA (problem-solving mindset)<br>* 🚀 Building and deploying real projects<br><br>---<br><br>## 🤝 Let's Connect<br><br>I’m always open to:<br><br>* Collaborating on meaningful projects<br>* Learning from like-minded developers<br>* Building something impactful<br><br>---<br><br>⭐ *This GitHub is not a collection of tutorials — it’s a journey of building real things.*<br>
 
-<!---
-feberocuous/feberocuous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aeeyaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amaan Rahman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaanrahman0003@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=feberocuous&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=feberocuous&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=feberocuous&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=feberocuous&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
