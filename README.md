@@ -1,5 +1,11 @@
 # 💫 About Me:
-# 👋 Hi, I'm Amaan Rahman<br><br>🎓 CSE Undergraduate | Builder in Progress | Future AI-Integrated Full Stack Developer<br><br>---<br><br>## 🚀 About Me<br><br>I’m a Computer Science student focused on building **real-world software systems** while strengthening my core fundamentals.<br><br>Currently, I’m working on:<br><br>* 📘 Preparing for **GATE** to build strong CS fundamentals<br>* 💻 Developing **backend-heavy applications** using modern web technologies<br>* 🧠 Practicing **problem-solving (DSA)** to improve logical thinking<br>* 🤖 Exploring how to integrate **AI into practical applications**<br><br>I believe in **depth over hype** — building real projects instead of chasing trends.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>* **Languages:** JavaScript, C, C++<br>* **Frontend:** HTML, CSS, Bootstrap<br>* **Backend:** Node.js, Express.js<br>* **Database:** SQL (learning PostgreSQL)<br>* **Tools:** Git, GitHub<br>* **Currently Learning:** TypeScript, System Design, Docker<br><br>---<br><br>## 🎯 What I'm Working Towards<br><br>* Building **production-ready applications** with real users<br>* Becoming a **strong backend / product engineer**<br>* Combining **software + AI** to create useful tools<br>* Achieving **financial independence and long-term stability**<br><br>---<br><br>## 💡 Philosophy<br><br>> "Consistency and depth beat shortcuts and noise."<br><br>---<br><br>## 📌 Current Focus<br><br>* 📚 GATE preparation (core CS subjects)<br>* 🧩 DSA (problem-solving mindset)<br>* 🚀 Building and deploying real projects<br><br>---<br><br>## 🤝 Let's Connect<br><br>I’m always open to:<br><br>* Collaborating on meaningful projects<br>* Learning from like-minded developers<br>* Building something impactful<br><br>---<br><br>⭐ *This GitHub is not a collection of tutorials — it’s a journey of building real things.*<br>
+# 👋 Hi, I'm Amaan Rahman
+
+CSE undergraduate focused on building real-world backend applications and strengthening core CS fundamentals through GATE prep.
+Currently working on projects, DSA, and exploring AI integration in practical systems.
+
+I believe in consistency, depth, and learning by building.
+
 
 
 ## 🌐 Socials:
